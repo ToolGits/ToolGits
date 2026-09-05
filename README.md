@@ -14,11 +14,11 @@
 
 # ToolGits 🛠️
 
-> The official ToolGits organization showcase — open source projects, tools, experiments, and code.
+> The official ToolGits organization showcase — open source projects, tools, frameworks, experiments, and code.
 
 ## 🚀 About
 
-**ToolGits** is an open source organization focused on building software, tools, libraries, experiments, and other technical projects.
+**ToolGits** is an open source organization focused on building software, frameworks, libraries, tools, experiments, and other technical projects.
 
 This repository serves as the **official showcase and central overview of the ToolGits ecosystem**.
 
@@ -28,23 +28,35 @@ Here you can discover projects maintained and developed by ToolGits.
 
 ### 📚 Toollibs
 
-Libraries and tools developed as part of the ToolGits ecosystem.
+A modular C++ framework ecosystem designed for lightweight, structured, and extensible software development.
+
+Toollibs focuses on modular systems, cross-platform development, developer tooling, and extensible software architecture.
 
 **Current version:** `v4.3 — Androck Horizon`
 
+**License:** `MIT`
+
 ### ⚙️ ToolCL
 
-A small and portable command-line project focused on simplicity and portability.
+A lightweight framework written in **C**, focused on simplicity, portability, and modular development.
+
+ToolCL is designed to remain small, portable, modular, and easy to understand.
 
 > Keep it small, keep it portable, keep it simple.
 
 **Current version:** `v0.3.0`
 
+**License:** `MIT`
+
 ### 🤖 XeZenOn
 
 A lightweight semi-AI for Android focused on modular intelligence, local knowledge, language detection, intents, rules, responses, and conversational systems.
 
+XeZenOn is designed to evolve gradually through modular systems without relying on a large external AI model.
+
 **Current version:** `v1.1.1 — Stable`
+
+**License:** `MPL-2.0`
 
 ## 🧪 Experiments
 
@@ -52,24 +64,24 @@ ToolGits also develops experimental projects and prototypes.
 
 These projects provide a space for testing new ideas, technologies, and concepts.
 
-## 🛠️ Tools & Libraries
+## 🛠️ Tools & Frameworks
 
 The ToolGits ecosystem includes:
 
-- 🧩 Libraries
-- ⚙️ Command-line tools
+- 🧩 Libraries and frameworks
+- ⚙️ Developer tools
 - 🤖 Intelligent systems
 - 📱 Android projects
 - 🧪 Experimental software
-- 💻 Developer tools
+- 💻 Cross-platform projects
 
 ## 📊 Project Status
 
-| Project | Version | Status |
-|---|---:|---|
-| Toollibs | v4.3 | 🟢 Stable |
-| ToolCL | v0.3.0 | 🟢 Stable |
-| XeZenOn | v1.1.1 | 🟢 Stable |
+| Project | Version | Status | License |
+|---|---:|---|---|
+| Toollibs | v4.3 | 🟢 Stable | MIT |
+| ToolCL | v0.3.0 | 🟢 Stable | MIT |
+| XeZenOn | v1.1.1 | 🟢 Stable | MPL-2.0 |
 
 ## 🌱 Open Source
 
@@ -85,6 +97,7 @@ Check each project's repository for its specific documentation and license.
 - 🤖 **XeZenOn:** https://github.com/ToolGits/XeZenOn
 - 🛠️🧰 **Toollibs:** https://github.com/ToolGits/Toollibs
 - 🛠️ **ToolCL:** https://github.com/ToolGits/ToolCL
+- 💬 **ToolGits Discord:** https://discord.gg/NJY5BaxMZq
 
 ## 📜 License
 
