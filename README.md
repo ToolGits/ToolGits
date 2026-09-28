@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/ToolGits.png?size=200" width="120" alt="ToolGits">
+<img src="https://github.com/ToolGits.png?size=300" width="210" alt="ToolGits">
 
 # ToolGits 🛠️
 
