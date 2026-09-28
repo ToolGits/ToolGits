@@ -10,10 +10,10 @@ An open source organization focused on software development, engineering, experi
 
 <br>
 
-[![Organization](https://img.shields.io/badge/Type-Organization-blue?style=for-the-badge)](https://github.com/ToolGits)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green?style=for-the-badge)](https://github.com/ToolGits)
-[![Showcase](https://img.shields.io/badge/Repository-Showcase-orange?style=for-the-badge)](https://github.com/ToolGits/ToolGits)
-[![License](https://img.shields.io/badge/License-GPL--3.0-red?style=for-the-badge)](LICENSE)
+[![Organization](https://img.shields.io/badge/type-Organization-blue?style=for-the-badge)](https://github.com/ToolGits)
+[![Open Source](https://img.shields.io/badge/open%20source-yes-green?style=for-the-badge)](https://github.com/ToolGits)
+[![Repository](https://img.shields.io/badge/repository-Showcase-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ToolGits/ToolGits)
+[![License](https://img.shields.io/badge/license-GPL--3.0-red?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -202,6 +202,6 @@ Created and maintained under the **ToolGits organization**.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ToolGits-181717?style=for-the-badge&logo=github)](https://github.com/ToolGits)
+[![GitHub](https://img.shields.io/badge/GitHub-ToolGits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ToolGits)
 
 </div>
